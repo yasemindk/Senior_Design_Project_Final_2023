@@ -4,12 +4,13 @@ My Data Sets Links:
 
 Histopathology Dataset: https://www.kaggle.com/datasets/paultimothymooney/breast-histopathology-images
 
-![image](https://github.com/yasemindk/Senior_Design_Project_Final_2023/assets/87904147/a4d4cf05-d839-4919-be3d-d00e0a3d203b)
 
 Ultrasound Breast Images Dataset: https://www.kaggle.com/datasets/aryashah2k/breast-ultrasound-images-dataset
+![image](https://github.com/yasemindk/Senior_Design_Project_Final_2023/assets/87904147/eb94d91d-244b-46c5-9616-1e7651897337)
 
 
 Mammography Dataset: https://www.kaggle.com/datasets/skooch/ddsm-mammography
+![image](https://github.com/yasemindk/Senior_Design_Project_Final_2023/assets/87904147/a4d4cf05-d839-4919-be3d-d00e0a3d203b)
 
 Drive link for project if you want to see models: https://drive.google.com/drive/folders/1W3eWRX-sA2FjyAIdEnsARb6zxeIt8Crh?usp=sharing
 
