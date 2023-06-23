@@ -18,3 +18,5 @@ Drive link for project if you want to see models: https://drive.google.com/drive
 You can see prepare of models in senior_project_models.xlsx file.
 
 project_demo.mp4, includes a quick demo of user interface.
+
+ResearchReport, contains Senior Design Project Report for whole project.
