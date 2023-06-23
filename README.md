@@ -15,7 +15,7 @@ Mammography Dataset: https://www.kaggle.com/datasets/skooch/ddsm-mammography
 
 Drive link for project if you want to see models: https://drive.google.com/drive/folders/1W3eWRX-sA2FjyAIdEnsARb6zxeIt8Crh?usp=sharing
 
-You can see prepare of models in senior_project_models.xlsx file.
+You can see compare of models in senior_project_models.xlsx file.
 
 project_demo.mp4, includes a quick demo of user interface.
 
