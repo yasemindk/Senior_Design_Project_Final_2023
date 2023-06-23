@@ -17,6 +17,6 @@ Drive link for project if you want to see models: https://drive.google.com/drive
 
 You can see compare of models in senior_project_models.xlsx file.
 
-project_demo.mp4, includes a quick demo of user interface.
+project_demo.mp4, includes a quick demo of flask web application.
 
 ResearchReport, contains Senior Design Project Report for whole project.
