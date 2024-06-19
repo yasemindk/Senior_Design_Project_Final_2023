@@ -13,7 +13,7 @@ Ultrasound Breast Images Dataset: https://www.kaggle.com/datasets/aryashah2k/bre
 Mammography Dataset: https://www.kaggle.com/datasets/skooch/ddsm-mammography
 ![image](https://github.com/yasemindk/Senior_Design_Project_Final_2023/assets/87904147/a4d4cf05-d839-4919-be3d-d00e0a3d203b)
 
-Drive link for project if you want to see models: https://drive.google.com/drive/folders/1W3eWRX-sA2FjyAIdEnsARb6zxeIt8Crh?usp=sharing
+Drive link for project demo and models: https://drive.google.com/drive/folders/1W3eWRX-sA2FjyAIdEnsARb6zxeIt8Crh?usp=sharing
 
 You can see compare of models in senior_project_models.xlsx file.
 
